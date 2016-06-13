@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942588606814",
+    "project_id": "colombotv-14ac5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942588606814:android:839dae3f73baf1e2",
+        "android_client_info": {
+          "package_name": "com.xicigny.colombotv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942588606814-2e2pt2otuqtv1hqcpfnpc4d1lq9elm6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xicigny.colombotv",
+            "certificate_hash": "BE72C93E24916B8E40966D9B25DD88AC9D8754BD"
+          }
+        },
+        {
+          "client_id": "942588606814-r4rmsli73a55bofdm79ub31m4ujplc3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshz-iiHcPkmMN0oZwhgPL2xJ-CW6xMY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
